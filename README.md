@@ -1,4 +1,1 @@
-safeconnect_killer
-==================
-
-Contains source code for the different ways I have beaten SafeConnect at Bucknell University. Currently, the only thing posted is my python script that switches between different user agent strings and requests the safeconnect page with these "safe" identifiers.
+The most functional script working is the safeconnect.py script. This can be run on a Mac with the command "nohup python safeconnect.py &" to start it in the background and not have to worry about it again.
